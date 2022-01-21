@@ -1,0 +1,1 @@
+("8.2" ta6nt ("d85935505cde27bf0da77c2b54cc1e6d5e921fb2" . "7db9533a551f6e66b6824b11a0bce819b3710551") (collects #"2htdp" #"image.rkt") (collects #"2htdp" #"universe.rkt") (collects #"errortrace" #"errortrace-key.rkt") (collects #"lang" #"posn.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
